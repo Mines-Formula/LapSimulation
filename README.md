@@ -1,4 +1,4 @@
 # LapSimulation
 
 # Sim architecture 
-![Current architecture diagram](SimSystemsDiagram.drawio.svg)
+![Current architecture diagram](SimSystemsDiagrams.drawio.svg)
